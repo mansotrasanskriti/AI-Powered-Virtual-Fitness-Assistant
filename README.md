@@ -20,3 +20,7 @@ MoveNet for real-time pose estimation.
 SpeechRecognition library for voice commands.
 Raspberry Pi and Sense HAT for hardware integration and user feedback.
 Multi-threading to manage tasks concurrently.
+
+![image](https://github.com/user-attachments/assets/3c9d0b63-8f1b-4d77-8050-e227a3fec8d0)
+![image](https://github.com/user-attachments/assets/9fb349e4-f73e-4d2b-ab84-261ad3966676)
+
